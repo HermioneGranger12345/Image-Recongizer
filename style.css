@@ -1,0 +1,30 @@
+body{
+    background:radial-gradient(aqua , rgb(248, 162, 244) , rgb(255, 188, 225) );
+   color:  rgb(247, 95, 146);
+}
+
+.heading{
+    width: 80%;
+    font-size: 25px;
+    font-family: 'Comfortaa', cursive;
+}
+
+#camera{
+    border: 2px solid rgb(247, 95, 146);
+    width: 350px;
+    height: 300px;
+}
+.name_objects{
+    color:  rgb(247, 95, 146);
+    font-size: 20px;
+}
+
+.capture_button{
+    background-color:  red;
+    font-size: 20px;
+}
+
+.Identify_button{
+    background-color: blue;
+    font-size: 20px;
+}
